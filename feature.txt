@@ -1,0 +1,98 @@
+PWMEXPANSION,ReefAngel.PWM.SetChannel,Dimming Expansion Module
+DisplayLEDPWM,ReefAngel.PWM.,Dimming Signal
+DisplayLEDPWM,ReefAngel.VariableControl.,Variable Control
+AI_LED,ReefAngel.AI.,Aqua Illumination Communication
+IOEXPANSION,ReefAngel.IO.,I/O Expansion Module
+RFEXPANSION,ReefAngel.RF.,RF Expansion Module
+SALINITYEXPANSION,ReefAngel.Params.Salinity,Salinity Expansion Module
+ORPEXPANSION,ReefAngel.Params.ORP,ORP Expansion Module
+wifi,ReefAngel.Portal,Wifi Attachment
+wifi,CheckWifi(),Wifi Attachment
+wifi,ReefAngel.AddWifi(),Wifi Attachment
+CUSTOM_MAIN,DrawCustomMain,Custom Main Screen
+CUSTOM_VARIABLES,ReefAngel.CustomVar,Custom Variable
+ENABLE_EXCEED_FLAGS,_Exceed_Flag,Exceed Flagging
+FONT_8x8,FONT_8x8,Extra Font - Medium Size (8x8 pixels)
+FONT_8x8,ReefAngel.LCD.DrawLargeText,Extra Font - Medium Size (8x8 pixels)
+FONT_8x16,FONT_8x16,Extra Font - Large Size (8x16 pixels)
+FONT_12x16,FONT_12x16,Extra Font - Extra Large Size (12x16 pixels)
+FONT_12x16,ReefAngel.LCD.DrawHugeText,Extra Font - Extra Large Size (12x16 pixels)
+NUMBERS_8x8,NUMBERS_8x8,Extra Font - Numbers Only - Medium Size (8x8 pixels)
+NUMBERS_8x16,NUMBERS_8x16,Extra Font - Numbers Only - Large Font (8x16 pixels)
+NUMBERS_12x16,NUMBERS_12x16,Extra Font - Numbers Only - Extra Large Font (12x16 pixels)
+NUMBERS_16x16,NUMBERS_16x16,Extra Font - Numbers Only - Huge Font (16x16 pixels)
+NUMBERS_16x16,ReefAngel.LCD.DrawHugeNumbers,Extra Font - Numbers Only - Huge Font (16x16 pixels)
+DateTimeSetup,ReefAngel.SetupDateTime,Date/Time Setup Menu
+DateTimeSetup,ReefAngel.AddDateTimeMenu,Date/Time Setup Menu
+SaveRelaysPresent,ReefAngel.Relay.IsRelayPresent,Relay Box presence check
+RelayExp,Box1_,Relay Expansion Module
+RelayExp,Box2_,Relay Expansion Module
+RelayExp,Box3_,Relay Expansion Module
+RelayExp,Box4_,Relay Expansion Module
+RelayExp,Box5_,Relay Expansion Module
+RelayExp,Box6_,Relay Expansion Module
+RelayExp,Box7_,Relay Expansion Module
+RelayExp,Box8_,Relay Expansion Module
+RelayExp,ReefAngel.Relay.RelayDataE,Relay Expansion Module
+CUSTOM_MENU,MenuEntry,Custom Menu
+PHEXPANSION,ReefAngel.Params.PHExp,pH Expansion Module
+COLORS_PDE,AddCustomColors(),Custom Colors
+WATERLEVELEXPANSION,ReefAngel.WaterLevel.,Water Level Expansion Module
+SetupCalibrateChoicePH,ReefAngel.SetupCalibrateChoicePH,Calibrate pH Menu with Choices
+MOONPHASELABEL,MoonPhaseLabel,Moon Phase Label
+PWMEXPANSION,ReefAngel.PWM.GetChannelValue,Dimming Expansion Module
+PWMEXPANSION,ReefAngel.PWM.Channel0,Dimming Expansion Module
+PWMEXPANSION,ReefAngel.PWM.Channel1,Dimming Expansion Module
+PWMEXPANSION,ReefAngel.PWM.Channel2,Dimming Expansion Module
+PWMEXPANSION,ReefAngel.PWM.Channel3,Dimming Expansion Module
+PWMEXPANSION,ReefAngel.PWM.Channel4,Dimming Expansion Module
+PWMEXPANSION,ReefAngel.PWM.Channel5,Dimming Expansion Module
+COLORS_PDE,ReefAngel.AddCustomColors,Custom Colors
+RFEXPANSION,ReefAngel.AddRFExpansion(),RF Expansion Module
+DATETIME24,ReefAngel.Display24h(),Display 24h Time
+SETUP_CALIBRATEPH_CHOICE,ReefAngel.UseFlexiblePhCalibration,Calibrate pH Menu with Choices
+REEFANGEL_MINI,ReefAngel.Mini,Reef Angel Mini
+SALINITYEXPANSION,ReefAngel.SetupCalibrateSalinity,Salinity Expansion Module
+I2C_LIB,I2C.h,I2C Library
+WATERLEVELEXPANSION,ReefAngel.WaterLevelATO,Water Level Expansion Module
+RA_TOUCH,ReefAngel.Touch(),Reef Angel Touch
+RA_TOUCHDISPLAY,ReefAngel.TouchDisplay(),Reef Angel Touch Display
+NOWIFI,ReefAngel.NoWifi(),Disable Wifi Attachment
+RA_EVOLUTION,ReefAngel.Evolution(),Reef Angel Evolution
+NOSD,ReefAngel.NoSD(),Disable SD Card
+NOTILT,ReefAngel.NoTilt(),Disable Tilt
+I2CMASTER,ReefAngel.UpdateTouchDisplay(),Reef Angel I2C Master
+BUSCHECK,ReefAngel.AddBusCheck(),I2C Bus Check
+RADION_COMM,ReefAngel.RF.SetChannel,Ecotech Radion Communication
+HUMIDITYEXPANSION,ReefAngel.Humidity.GetLevel,Humidity Expanion Module
+DCPUMPCONTROL,ReefAngel.DCPump,DC Pump Control (Jebao/Tunze)
+DisplayLEDPWM,ReefAngel.DCPump,Dimming Signal
+PWMEXPANSION,ReefAngel.DCPump.ExpansionChannel,Dimming Expansion Module
+LEAKDETECTOREXPANSION,ReefAngel.IsLeakDetected(),Rope Leak Detector Expansion
+LEAKDETECTOREXPANSION,ReefAngel.LeakShutoffPorts,Rope Leak Detector Expansion
+ATO_LOW_REVERSE,ReefAngel.ReverseATOLow,Reverse ATO Low
+ATO_HIGH_REVERSE,ReefAngel.ReverseATOHigh,Reverse ATO High
+__PLUS_SPECIAL_WIFI__,ReefAngel.ChangeWifiPort(),Change Wifi Port
+RA_STAR,ReefAngel.Star(),Reef Angel Star
+MAIN_2014,ReefAngel.Use2014Screen(),2014 Main Screen
+FONT_8x8,ReefAngel.Use2014Screen(),Extra Font - Medium Size (8x8 pixels)
+SALINITYEXPANSION,ReefAngel.AddSalinityExpansion(),Salinity Expansion Module
+ORPEXPANSION,ReefAngel.AddORPExpansion(),ORP Expansion Module
+PHEXPANSION,ReefAngel.AddPHExpansion(),pH Expansion Module
+WATERLEVELEXPANSION,ReefAngel.AddWaterLevelExpansion(),Water Level Expansion Module
+MULTIWATERLEVELEXPANSION,ReefAngel.AddMultiChannelWaterLevelExpansion(),Multi Channel Water Level Expansion Module
+HUMIDITYEXPANSION,ReefAngel.AddHumidityExpansion(),Humidity Expanion Module
+RANET,ReefAngel.Relay.RANetFallBackE,RANet framework
+RANET,ReefAngel.AddRANet,RANet framework
+HWSPILCD,ReefAngel.AddSPILCD,Hardware SPI LCD
+OVERRIDE_PORTS,ReefAngel.AddPortOverrides,Override Port Masks
+PWMEXPANSION,ReefAngel.VariableControl.SetChannel,Dimming Expansion Module
+PWMEXPANSION,ReefAngel.VariableControl.GetChannelValue,Dimming Expansion Module
+PWMEXPANSION,ReefAngel.VariableControl.Channel0,Dimming Expansion Module
+PWMEXPANSION,ReefAngel.VariableControl.Channel1,Dimming Expansion Module
+PWMEXPANSION,ReefAngel.VariableControl.Channel2,Dimming Expansion Module
+PWMEXPANSION,ReefAngel.VariableControl.Channel3,Dimming Expansion Module
+PWMEXPANSION,ReefAngel.VariableControl.Channel4,Dimming Expansion Module
+PWMEXPANSION,ReefAngel.VariableControl.Channel5,Dimming Expansion Module
+PAREXPANSION,ReefAngel.AddPARExpansion(),PAR Expanion Module
+PAREXPANSION,ReefAngel.PAR.,PAR Expansion Module
