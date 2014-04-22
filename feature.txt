@@ -11,7 +11,7 @@ wifi,CheckWifi(),Wifi Attachment
 wifi,ReefAngel.AddWifi(),Wifi Attachment
 CUSTOM_MAIN,DrawCustomMain,Custom Main Screen
 CUSTOM_VARIABLES,ReefAngel.CustomVar,Custom Variable
-ENABLE_EXCEED_FLAGS,_Exceed_Flag,Exceed Flagging
+ENABLE_EXCEED_FLAGS,Exceed_Flag,Exceed Flagging
 FONT_8x8,FONT_8x8,Extra Font - Medium Size (8x8 pixels)
 FONT_8x8,ReefAngel.LCD.DrawLargeText,Extra Font - Medium Size (8x8 pixels)
 FONT_8x16,FONT_8x16,Extra Font - Large Size (8x16 pixels)
@@ -25,6 +25,7 @@ NUMBERS_16x16,ReefAngel.LCD.DrawHugeNumbers,Extra Font - Numbers Only - Huge Fon
 DateTimeSetup,ReefAngel.SetupDateTime,Date/Time Setup Menu
 DateTimeSetup,ReefAngel.AddDateTimeMenu,Date/Time Setup Menu
 SaveRelaysPresent,ReefAngel.Relay.IsRelayPresent,Relay Box presence check
+RelayExp,Box0,Relay Expansion Module
 RelayExp,Box1_,Relay Expansion Module
 RelayExp,Box2_,Relay Expansion Module
 RelayExp,Box3_,Relay Expansion Module
@@ -66,13 +67,12 @@ BUSCHECK,ReefAngel.AddBusCheck(),I2C Bus Check
 RADION_COMM,ReefAngel.RF.SetChannel,Ecotech Radion Communication
 HUMIDITYEXPANSION,ReefAngel.Humidity.GetLevel,Humidity Expanion Module
 DCPUMPCONTROL,ReefAngel.DCPump,DC Pump Control (Jebao/Tunze)
-DisplayLEDPWM,ReefAngel.DCPump,Dimming Signal
 PWMEXPANSION,ReefAngel.DCPump.ExpansionChannel,Dimming Expansion Module
 LEAKDETECTOREXPANSION,ReefAngel.IsLeakDetected(),Rope Leak Detector Expansion
 LEAKDETECTOREXPANSION,ReefAngel.LeakShutoffPorts,Rope Leak Detector Expansion
 ATO_LOW_REVERSE,ReefAngel.ReverseATOLow,Reverse ATO Low
 ATO_HIGH_REVERSE,ReefAngel.ReverseATOHigh,Reverse ATO High
-__PLUS_SPECIAL_WIFI__,ReefAngel.ChangeWifiPort(),Change Wifi Port
+PLUS_SPECIAL_WIFI,ReefAngel.ChangeWifiPort(),Change Wifi Port
 RA_STAR,ReefAngel.Star(),Reef Angel Star
 MAIN_2014,ReefAngel.Use2014Screen(),2014 Main Screen
 FONT_8x8,ReefAngel.Use2014Screen(),Extra Font - Medium Size (8x8 pixels)
@@ -96,3 +96,8 @@ PWMEXPANSION,ReefAngel.VariableControl.Channel4,Dimming Expansion Module
 PWMEXPANSION,ReefAngel.VariableControl.Channel5,Dimming Expansion Module
 PAREXPANSION,ReefAngel.AddPARExpansion(),PAR Expanion Module
 PAREXPANSION,ReefAngel.PAR.,PAR Expansion Module
+MetalHalideSetup,MHLights,Metal Halide Setup
+SetupExtras,SetupExtras,SetupExtras
+DisplayLEDPWM,ReefAngel.PWM.Daylight,PWM Lights Menu
+DisplayLEDPWM,ReefAngel.PWM.Actinic,PWM Lights Menu
+DisplayLEDPWM,ReefAngel.PWM.Standard,PWM Lights Menu
