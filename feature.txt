@@ -82,6 +82,10 @@ ORPEXPANSION,ReefAngel.AddORPExpansion(),ORP Expansion Module
 PHEXPANSION,ReefAngel.AddPHExpansion(),pH Expansion Module
 WATERLEVELEXPANSION,ReefAngel.AddWaterLevelExpansion(),Water Level Expansion Module
 MULTIWATERLEVELEXPANSION,ReefAngel.AddMultiChannelWaterLevelExpansion(),Multi Channel Water Level Expansion Module
+MULTIWATERLEVELEXPANSION,ReefAngel.WaterLevel.GetLevel(1),Multi Channel Water Level Expansion Module
+MULTIWATERLEVELEXPANSION,ReefAngel.WaterLevel.GetLevel(2),Multi Channel Water Level Expansion Module
+MULTIWATERLEVELEXPANSION,ReefAngel.WaterLevel.GetLevel(3),Multi Channel Water Level Expansion Module
+MULTIWATERLEVELEXPANSION,ReefAngel.WaterLevel.GetLevel(4),Multi Channel Water Level Expansion Module
 HUMIDITYEXPANSION,ReefAngel.AddHumidityExpansion(),Humidity Expanion Module
 RANET,ReefAngel.Relay.RANetFallBackE,RANet framework
 RANET,ReefAngel.AddRANet,RANet framework
@@ -102,3 +106,4 @@ SetupExtras,SetupExtras,SetupExtras
 DisplayLEDPWM,ReefAngel.PWM.Daylight,PWM Lights Menu
 DisplayLEDPWM,ReefAngel.PWM.Actinic,PWM Lights Menu
 DisplayLEDPWM,ReefAngel.PWM.Standard,PWM Lights Menu
+EXTRA_TEMP_PROBES,ReefAngel.AddExtraTempProbes,Extra Temperature Probes
