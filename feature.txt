@@ -11,6 +11,7 @@ wifi,ReefAngel.Portal,Wifi Attachment
 wifi,CheckWifi(),Wifi Attachment
 wifi,ReefAngel.AddWifi(),Wifi Attachment
 wifi,WifiAuthentication,Wifi Attachment
+wifi,ReefAngel.DDNS,Wifi Attachment
 CUSTOM_MAIN,DrawCustomMain,Custom Main Screen
 CUSTOM_VARIABLES,ReefAngel.CustomVar,Custom Variable
 ENABLE_EXCEED_FLAGS,Exceed_Flag,Exceed Flagging
