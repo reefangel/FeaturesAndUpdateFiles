@@ -1,4 +1,4 @@
-16CHPWMEXPANSION,ReefAngel.Add16ChPWM,16 Channel Dimming Expansion Module
+SIXTEENCHPWMEXPANSION,ReefAngel.Add16ChPWM,16 Channel Dimming Expansion Module
 PWMEXPANSION,ReefAngel.PWM.SetChannel,Dimming Expansion Module
 DisplayLEDPWM,ReefAngel.PWM.,Dimming Signal
 DisplayLEDPWM,ReefAngel.VariableControl.,Variable Control
