@@ -70,6 +70,7 @@ BUSCHECK,ReefAngel.AddBusCheck(),I2C Bus Check
 RADION_COMM,ReefAngel.RF.SetChannel,Ecotech Radion Communication
 HUMIDITYEXPANSION,ReefAngel.Humidity.GetLevel,Humidity Expanion Module
 DCPUMPCONTROL,ReefAngel.DCPump,DC Pump Control (Jebao/Tunze)
+DisplayLEDPWM,ReefAngel.DCPump,Dimming Signal
 PWMEXPANSION,ReefAngel.DCPump.ExpansionChannel,Dimming Expansion Module
 LEAKDETECTOREXPANSION,ReefAngel.IsLeakDetected(),Rope Leak Detector Expansion
 LEAKDETECTOREXPANSION,ReefAngel.LeakShutoffPorts,Rope Leak Detector Expansion
