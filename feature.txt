@@ -42,7 +42,7 @@ CUSTOM_MENU,MenuEntry,Custom Menu
 PHEXPANSION,ReefAngel.Params.PHExp,pH Expansion Module
 COLORS_PDE,AddCustomColors(),Custom Colors
 WATERLEVELEXPANSION,ReefAngel.WaterLevel.,Water Level Expansion Module
-SetupCalibrateChoicePH,ReefAngel.SetupCalibrateChoicePH,Calibrate pH Menu with Choices
+SETUP_CALIBRATEPH_CHOICE,ReefAngel.SetupCalibrateChoicePH,Calibrate pH Menu with Choices
 MOONPHASELABEL,MoonPhaseLabel,Moon Phase Label
 PWMEXPANSION,ReefAngel.PWM.GetChannelValue,Dimming Expansion Module
 PWMEXPANSION,ReefAngel.PWM.Channel0,Dimming Expansion Module
