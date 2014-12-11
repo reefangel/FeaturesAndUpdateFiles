@@ -245,5 +245,6 @@ http://www.reefangel.com/update/files/tools/Wizard/data/ra_dimming.png
 http://www.reefangel.com/update/files/tools/Wizard/data/ra_horizontal.png
 http://www.reefangel.com/update/files/tools/Wizard/data/ra_small.png
 http://www.reefangel.com/update/files/tools/Wizard/data/relay_small.png
+http://www.reefangel.com/update/files/tools/Wizard/data/sigmoid.png
 http://www.reefangel.com/update/files/tools/Wizard/data/slope.png
 http://www.reefangel.com/update/files/tools/Wizard/data/slopesettings.png
