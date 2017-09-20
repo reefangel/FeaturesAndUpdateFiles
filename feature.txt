@@ -80,6 +80,7 @@ LEAKDETECTOREXPANSION,ReefAngel.IsLeakDetected(),Rope Leak Detector Expansion
 LEAKDETECTOREXPANSION,ReefAngel.LeakShutoffPorts,Rope Leak Detector Expansion
 ATO_LOW_REVERSE,ReefAngel.ReverseATOLow,Reverse ATO Low
 ATO_HIGH_REVERSE,ReefAngel.ReverseATOHigh,Reverse ATO High
+ATO_ALARM_REVERSE,ReefAngel.ReverseAlarmInput,Reverse AlarmInput
 PLUS_SPECIAL_WIFI,ReefAngel.ChangeWifiPort(),Change Wifi Port
 RA_STAR,ReefAngel.Star(),Reef Angel Star
 MAIN_2014,ReefAngel.Use2014Screen(),2014 Main Screen
