@@ -12,6 +12,10 @@ wifi,CheckWifi(),Wifi Attachment
 wifi,ReefAngel.AddWifi(),Wifi Attachment
 wifi,WifiAuthentication,Wifi Attachment
 wifi,ReefAngel.DDNS,Wifi Attachment
+CLOUD_WIFI,ReefAngel.AddCloudWifi(),Cloud Wifi Attachment
+wifi,ReefAngel.AddCloudWifi(),Wifi Attachment
+CLOUD_WIFI,ReefAngel.CloudPortal(),Cloud Wifi Attachment
+wifi,ReefAngel.CloudPortal(),Wifi Attachment
 CUSTOM_MAIN,DrawCustomMain,Custom Main Screen
 CUSTOM_VARIABLES,ReefAngel.CustomVar,Custom Variable
 ENABLE_EXCEED_FLAGS,Exceed_Flag,Exceed Flagging
@@ -110,3 +114,7 @@ DisplayLEDPWM,ReefAngel.PWM.Daylight,PWM Lights Menu
 DisplayLEDPWM,ReefAngel.PWM.Actinic,PWM Lights Menu
 DisplayLEDPWM,ReefAngel.PWM.Standard,PWM Lights Menu
 EXTRA_TEMP_PROBES,ReefAngel.AddExtraTempProbes,Extra Temperature Probes
+WavemakerSetup,ReefAngel.AddStandardMenu,Standard Menu
+ATOSetup,ReefAngel.AddStandardMenu,Standard Menu
+OverheatSetup,ReefAngel.AddStandardMenu,Standard Menu
+StandardLightSetup,ReefAngel.AddStandardMenu,Standard Menu

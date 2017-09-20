@@ -50,6 +50,7 @@ https://raw.github.com/reefangel/libraries/master/ADK2/utility/usb_drv.h
 https://raw.github.com/reefangel/libraries/master/ADK2/utility/usb_ids.h
 https://raw.github.com/reefangel/libraries/master/AI/AI.cpp
 https://raw.github.com/reefangel/libraries/master/AI/AI.h
+https://raw.github.com/reefangel/libraries/master/CloudGlobals/CloudGlobals.h
 https://raw.github.com/reefangel/libraries/master/DCPump/DCPump.cpp
 https://raw.github.com/reefangel/libraries/master/DCPump/DCPump.h
 https://raw.github.com/reefangel/libraries/master/DS1307RTC/DS1307RTC.cpp
@@ -120,10 +121,16 @@ https://raw.github.com/reefangel/libraries/master/Phillips6610LCDInv/Phillips661
 https://raw.github.com/reefangel/libraries/master/Phillips6610LCDInv/Phillips6610LCDInv.h
 https://raw.github.com/reefangel/libraries/master/Phillips6610LCDInv2/Phillips6610LCDInv2.cpp
 https://raw.github.com/reefangel/libraries/master/Phillips6610LCDInv2/Phillips6610LCDInv2.h
+https://raw.github.com/reefangel/libraries/master/PubSubClient/CHANGES.txt
+https://raw.github.com/reefangel/libraries/master/PubSubClient/keywords.txt
+https://raw.github.com/reefangel/libraries/master/PubSubClient/LICENSE.txt
+https://raw.github.com/reefangel/libraries/master/PubSubClient/PubSubClient.cpp
+https://raw.github.com/reefangel/libraries/master/PubSubClient/PubSubClient.h
 https://raw.github.com/reefangel/libraries/master/RA_ATO/RA_ATO.cpp
 https://raw.github.com/reefangel/libraries/master/RA_ATO/RA_ATO.h
 https://raw.github.com/reefangel/libraries/master/RA_Colors/RA_Colors.h
 https://raw.github.com/reefangel/libraries/master/RA_CustomColors/RA_CustomColors.h
+https://raw.github.com/reefangel/libraries/master/RA_CustomLabels/RA_CustomLabels.h
 https://raw.github.com/reefangel/libraries/master/RA_Joystick/RA_Joystick.cpp
 https://raw.github.com/reefangel/libraries/master/RA_Joystick/RA_Joystick.h
 https://raw.github.com/reefangel/libraries/master/RA_NokiaLCD/RA_NokiaLCD.cpp
