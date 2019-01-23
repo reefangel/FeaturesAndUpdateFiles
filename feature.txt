@@ -1,9 +1,11 @@
+PWMEXPANSION,ReefAngel.AddPWMExpansion(),Dimming Expansion Module
 PWMEXPANSION,ReefAngel.PWM.SetChannel,Dimming Expansion Module
 SIXTEENCHPWMEXPANSION,ReefAngel.Add16ChPWM,16 Channel Dimming Expansion Module
 DisplayLEDPWM,ReefAngel.PWM.,Dimming Signal
 DisplayLEDPWM,ReefAngel.VariableControl.,Variable Control
 AI_LED,ReefAngel.AI.,Aqua Illumination Communication
 IOEXPANSION,ReefAngel.IO.,I/O Expansion Module
+IOEXPANSION,ReefAngel.AddIOExpansion(),I/O Expansion Module
 RFEXPANSION,ReefAngel.RF.,RF Expansion Module
 SALINITYEXPANSION,ReefAngel.Params.Salinity,Salinity Expansion Module
 ORPEXPANSION,ReefAngel.Params.ORP,ORP Expansion Module
@@ -78,6 +80,7 @@ DisplayLEDPWM,ReefAngel.DCPump,Dimming Signal
 PWMEXPANSION,ReefAngel.DCPump.ExpansionChannel,Dimming Expansion Module
 LEAKDETECTOREXPANSION,ReefAngel.IsLeakDetected(),Rope Leak Detector Expansion
 LEAKDETECTOREXPANSION,ReefAngel.LeakShutoffPorts,Rope Leak Detector Expansion
+LEAKDETECTOREXPANSION,ReefAngel.AddLeakDetectorExpansion(),Rope Leak Detector Expansion
 ATO_LOW_REVERSE,ReefAngel.ReverseATOLow,Reverse ATO Low
 ATO_HIGH_REVERSE,ReefAngel.ReverseATOHigh,Reverse ATO High
 ATO_ALARM_REVERSE,ReefAngel.ReverseAlarmInput,Reverse AlarmInput
