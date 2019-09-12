@@ -122,3 +122,4 @@ WavemakerSetup,ReefAngel.AddStandardMenu,Standard Menu
 ATOSetup,ReefAngel.AddStandardMenu,Standard Menu
 OverheatSetup,ReefAngel.AddStandardMenu,Standard Menu
 StandardLightSetup,ReefAngel.AddStandardMenu,Standard Menu
+KALKDOSER,ReefAngel.KalkDoser,KalkDoser
